@@ -1,8 +1,15 @@
 header{ 
-    background-color: #f8f9fa;
-    color: #333;
-    display: flex;
+    background-color: #222;
+    color: white;
+    padding:20px;
     justify-content: space-between; 
     height: 60px;
-    align-items: left;
+    align-items: center;
+
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
 }
